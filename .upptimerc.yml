@@ -5,8 +5,8 @@ repo: ceimonitor_v2 # The name of this repository
 sites:
   - name: CEI
     url: corporateeventsinc.net
-#  - name: Google
-#   url: https://www.google.com
+- name: Google
+url: https://www.google.com
 #  - name: Wikipedia
 #    url: https://en.wikipedia.org
 #  - name: Hacker News
